@@ -22,4 +22,4 @@ jobs:
         python-version: 3.9
     - name: Test with pytest
       run: |
-        echo "abc"
+        python3 119parser.py
