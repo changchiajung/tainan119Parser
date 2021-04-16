@@ -46,6 +46,4 @@ def parseNewData():
 
 
 if __name__ == '__main__':
-    while True:
-        parseNewData()
-        time.sleep(1200)
+    parseNewData()
